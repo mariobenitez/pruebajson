@@ -1,15 +1,14 @@
 {  
-   "status":"OK",
    "art":[  
       {  
-         "id": 1,
+         "id":1,
          "POR_DESC_PREPAGA":"20",
          "CAFAPAR":"457895",
          "CANTIDAD":"2",
          "POR_DESC_FARMACIA":20
       },
       {  
-         "id": 2,
+         "id":2,
          "POR_DESC_PREPAGA":"35",
          "CAFAPAR":"124",
          "CANTIDAD":"1",
