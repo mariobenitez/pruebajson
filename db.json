@@ -1,6 +1,6 @@
 {  
    "status":"OK",
-   "art":{  
+   "art":[
       {  
          "POR_DESC_PREPAGA":"20",
 	 "CAFAPAR":"457895",
@@ -14,5 +14,5 @@
          "CANTIDAD":"1",
 	 "POR_DESC_FARMACIA":25
       }
-   }
+   ]
 }
